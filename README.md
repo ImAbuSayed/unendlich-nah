@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unendlich-nah/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Unendlich nah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendlich-nah/) |
+| **Get License** | [License this song: Unendlich nah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendlich-nah/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `84b4f1f6903e9f5c37f04382eef2898e4d3f0edaed98548579023d1216ebbf3c` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
