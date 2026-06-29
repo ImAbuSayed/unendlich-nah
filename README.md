@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unendlich-nah/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Unendlich nah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendlich-nah/) |
+| **Get License** | [Get a Licensing Quote for Unendlich nah](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unendlich-nah/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benz durch die City, komm mir unendlich nah
+> Late Night Vibe, Baby, ich bin für dich da
+> Keine Zeit für die Games, lass die Hand auf mei'm Bein
+> Will nur dich, Shawty, lass uns heut unendlich sein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
